@@ -103,7 +103,7 @@ https://dubbogo.github.io/dubbo-go-website (**Improving**)
 
 ## Quick Start
 
-[dubbo-samples/golang](https://github.com/dubbogo/dubbo-samples) shows how to use dubbo-go. Please read the [dubbo-samples/golang/README.md](https://github.com/dubbogo/dubbo-samples/blob/master/golang/README.md) carefully to learn how to dispose the configuration and compile the program.
+[dubbo-samples/golang](https://github.com/apache/dubbo-samples) shows how to use dubbo-go. Please read the [dubbo-samples/golang/README.md](https://github.com/apache/dubbo-samples/blob/master/golang/README.md) carefully to learn how to dispose the configuration and compile the program.
 
 ## Running unit tests
 
